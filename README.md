@@ -49,7 +49,8 @@ class userAdmin(admin.ModelAdmin):
 
 
 # ER DIAGRAM
-![Screenshot 2024-12-14 090434](https://github.com/user-attachments/assets/e65a1398-93ce-4338-8f4b-7169b5fff522)
+![Screenshot 2025-01-02 144426](https://github.com/user-attachments/assets/0821ccb9-9558-4d2e-84d9-e2778e90c504)
+
 
 
 # RESULT
